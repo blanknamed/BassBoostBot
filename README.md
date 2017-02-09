@@ -1,5 +1,5 @@
 # BassBoostBot
-Telegram bot for bassboosted tacks0))0
+Telegram bot for bassboosted tacks
 
 To run this, you'll need these CLI tools: 
 
@@ -14,7 +14,7 @@ You'll also need **node 7** with **harmony** flag in order to use async/await.
 
 1. long-poll until get message
 2. if audio, download file
-3. bass boost it))00
+3. bass boost it
 4. split to $(number of cores) equal parts 
 5. convert each part with lame
 6. cat all files into one
